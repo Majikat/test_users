@@ -15,6 +15,7 @@ serve.
 
     'author': "Majikat",
     'website': "http://majikat.com",
+    'license': 'GPL-3.0',
 
     'category': 'Extra Rights',
     'version': '1.0.0',
