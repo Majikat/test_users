@@ -1,0 +1,81 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* test_users
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0rc1c\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-04 13:27+0000\n"
+"PO-Revision-Date: 2016-10-04 13:27+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: test_users
+#: model:res.partner,name:test_users.account_invoice_partner
+msgid "Account Invoice User"
+msgstr "Utilisateur Facturation"
+
+#. module: test_users
+#: model:res.partner,name:test_users.account_user_partner
+msgid "Account User"
+msgstr "Utilisateur Comptabilité"
+
+#. module: test_users
+#: model:res.partner,name:test_users.account_manager_partner
+msgid "Adviser"
+msgstr "Conseiller"
+
+#. module: test_users
+#: model:res.partner,name:test_users.all_leads_partner
+msgid "All Leads User"
+msgstr "Chef Commercial"
+
+#. module: test_users
+#: model:res.partner,name:test_users.basic_user_partner
+msgid "Basic User"
+msgstr "Utilisateur"
+
+#. module: test_users
+#: model:res.partner,name:test_users.hr_manager_partner
+msgid "HR Manager"
+msgstr "Gestionnaire RH"
+
+#. module: test_users
+#: model:res.partner,name:test_users.hr_user_partner
+msgid "HR Officer"
+msgstr "Officier RH"
+
+#. module: test_users
+#: model:res.partner,name:test_users.purchase_manager_partner
+msgid "Purchase Manager"
+msgstr "Gestionnaire Achat"
+
+#. module: test_users
+#: model:res.partner,name:test_users.purchase_user_partner
+msgid "Purchase User"
+msgstr "Utilisateur Achat"
+
+#. module: test_users
+#: model:res.partner,name:test_users.sale_manager_partner
+msgid "Sale Manager"
+msgstr "Gestionnaire Commercial"
+
+#. module: test_users
+#: model:res.partner,name:test_users.salesman_partner
+msgid "Salesman"
+msgstr "Commercial"
+
+#. module: test_users
+#: model:res.partner,name:test_users.stock_manager_partner
+msgid "Stock Manager"
+msgstr "Gestionnaire Stock"
+
+#. module: test_users
+#: model:res.partner,name:test_users.stock_user_partner
+msgid "Stock User"
+msgstr "Utilisateur Stock"
